@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+#Middle{
+    background-image: url(./Illustrations/Home/Bathome1.png);
+    height: 500px;
+    background-size: cover;
+    background-position: center ;
+    
+}
+ul{
+    list-style-type: none;
+    color: white;
+}
+
+.text {
+    color: white;
+}
+.conteneur-navigbar{
+    margin-left: 70%;
+}
+.menu {
+    float: left;
+    display: block;
+    margin-left: 200px ;
+    justify-content: space-between;
+    align-items: center;
+}
+#Middle2{
+    background-color: black;
+}
+.logo{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    margin-right: 70%;
+    padding-top: 100px;
+    margin-left: 5%;
+}
+.second-paragraph{
+    color: white;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+.bathome{
+    display: flex;
+    justify-content: space-around;
+    }
+.bathome-1{
+    text-align: center;
+}
+
+#Middle3{
+    background-color:rgb(78, 76, 76);
+}
+h3{
+    text-align: center;
+    color: white;
+}
+
+.guillemet1{
+    margin-left: 25%;
+}
+.guillemet2{
+    margin-left: 75%;
+}
+.third-paragraph{
+    color: white;
+    text-align: center;
+}
+.four-paragraph{
+    text-align: center;
+}
+#Middle3{
+    color: white;
+    
+}
+.contact{
+    margin-left: 15%;
+}
+.formulaire{
+    background: none;  
+}
+.lesboutons{
+    color: white;
+    background: none;
+}
+footer{
+    padding: 10%;
+    background-color: black;
+}
+.footer-1{
+    display: flex;
+}
+.réseaux-sociaux{
+    display: flex;
+    text-align: center;
+}
+.fleche1{
+    float: left;
+}
+.fleche2{
+    float: right;
+}
